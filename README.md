@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/devemanoel" target="blank"><img src="https://img.shields.io/twitter/follow/devemanoel?logo=twitter&style=for-the-badge" alt="devemanoel" /></a> </p>
 
-- 🔭 I’m currently working on [react-restaurant](https://github.com/emanoelantonio/react-restaurante)
+- 🔭 I’m currently working on [react-ecommerce](https://github.com/emanoelantonio/react-ecommerce)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, CSS3**
 
