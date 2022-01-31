@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanoelantonio&label=Profile%20views&color=0e75b6&style=flat" alt="emanoelantonio" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=21&center=true&vCenter=true&lines=A+passionate+frontend+developer;+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+person+passionate+about+technology)](https://git.io/typing-svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanoelantonio&show_icons=true&locale=en" alt="emanoelantonio" /></p><br>
 
