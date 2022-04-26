@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Emanoel Antonio
+# Olá 👋, eu sou Emanoel Antonio
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanoelantonio&label=Profile%20views&color=0e75b6&style=flat" alt="emanoelantonio" /> </p>
 Graduando em Análise e Desenvolvimento de Sistemas, estudante das tecnologias dedicadas ao Front-End, mas com noções em Back-End e Banco de dados Relacional e não Relacional.
