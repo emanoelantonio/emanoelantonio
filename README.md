@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanoelantonio&label=Profile%20views&color=0e75b6&style=flat" alt="emanoelantonio" /> </p>
 Graduando em Análise e Desenvolvimento de Sistemas, estudante das tecnologias dedicadas ao Front-End, mas com noções em Back-End e Banco de dados Relacional e não Relacional.
 
-- 🔭 Atualmente estou trabalhando no projeto [react-ecommerce](https://github.com/emanoelantonio/react-ecommerce)
+- 🔭 Atualmente estou trabalhando no projeto [react-habits](https://github.com/emanoelantonio/react-habits)
 
 - 🌱 Estudando mais afundo **ReactJS, NodeJS, CSS3**
 - 💬 Posso te ajudar em projetos com foco na Web.
